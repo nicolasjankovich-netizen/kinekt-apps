@@ -20,8 +20,8 @@
       ],
       "versions": [
         {
-          "version": "1.0",
-          "buildVersion": "1",
+          "version": "5.0",
+          "buildVersion": "32",
           "date": "2026-07-17",
           "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
           "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kino.ipa",
@@ -29,12 +29,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0",
+      "version": "5.0",
       "versionDate": "2026-07-17",
       "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
       "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kino.ipa",
       "size": 1889887,
-      "minOSVersion": "26.0"
+      "minOSVersion": "26.0",
+      "buildVersion": "32"
     },
     {
       "name": "Konzert",
@@ -51,7 +52,7 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "1",
+          "buildVersion": "18",
           "date": "2026-07-17",
           "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
           "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Konzert.ipa",
@@ -64,7 +65,8 @@
       "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
       "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Konzert.ipa",
       "size": 1987311,
-      "minOSVersion": "26.0"
+      "minOSVersion": "26.0",
+      "buildVersion": "18"
     },
     {
       "name": "Kern",
@@ -92,7 +94,8 @@
       "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
       "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kern.ipa",
       "size": 1566635,
-      "minOSVersion": "26.0"
+      "minOSVersion": "26.0",
+      "buildVersion": "1"
     },
     {
       "name": "Kommando",
@@ -120,7 +123,8 @@
       "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
       "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/NAS.ipa",
       "size": 2262399,
-      "minOSVersion": "26.0"
+      "minOSVersion": "26.0",
+      "buildVersion": "1"
     },
     {
       "name": "Kurs",
@@ -150,7 +154,8 @@
       "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
       "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
       "size": 1588895,
-      "minOSVersion": "26.0"
+      "minOSVersion": "26.0",
+      "buildVersion": "1"
     }
   ],
   "news": []
