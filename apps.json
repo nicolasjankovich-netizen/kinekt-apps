@@ -1,0 +1,157 @@
+{
+  "name": "Kinekt",
+  "identifier": "com.nicolas.kinekt.source",
+  "subtitle": "Nicolas' App-Familie — eine Kinekt-Identität",
+  "website": "https://github.com/nicolasjankovich-netizen/kinekt-apps",
+  "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kino.png",
+  "tintColor": "6FB0AB",
+  "apps": [
+    {
+      "name": "Kino",
+      "bundleIdentifier": "com.nicolas.Kino",
+      "developerName": "Nicolas",
+      "subtitle": "Filme & Serien",
+      "localizedDescription": "Deine private Film- & Serien-Mediathek (Jellyfin) — mit Login, Profilen, Downloads & Apple-TV-Ausgabe.",
+      "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kino.png",
+      "tintColor": "6FB0AB",
+      "category": "entertainment",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kino.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-07-17",
+          "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kino.ipa",
+          "size": 1889887,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-07-17",
+      "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kino.ipa",
+      "size": 1889887,
+      "minOSVersion": "26.0"
+    },
+    {
+      "name": "Konzert",
+      "bundleIdentifier": "com.nicolas.Konzert",
+      "developerName": "Nicolas",
+      "subtitle": "Deine Musik",
+      "localizedDescription": "Musik-Streaming (Navidrome) im Apple-Music-Stil — Login, Playlists, Downloads, AirPlay & Cast. Eigener Musik-Account nötig.",
+      "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/konzert.png",
+      "tintColor": "6FB0AB",
+      "category": "utilities",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/konzert.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-07-17",
+          "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Konzert.ipa",
+          "size": 1987311,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-07-17",
+      "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Konzert.ipa",
+      "size": 1987311,
+      "minOSVersion": "26.0"
+    },
+    {
+      "name": "Kern",
+      "bundleIdentifier": "com.nicolas.Kern",
+      "developerName": "Nicolas",
+      "subtitle": "Persönlicher Assistent",
+      "localizedDescription": "Kalender, Aufgaben, Notizen & KI-Assistent (Agent C). Eigener Server-Token nötig (Mehr → Server-Token).",
+      "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kern.png",
+      "tintColor": "6FB0AB",
+      "category": "utilities",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-07-17",
+          "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kern.ipa",
+          "size": 1566635,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-07-17",
+      "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kern.ipa",
+      "size": 1566635,
+      "minOSVersion": "26.0"
+    },
+    {
+      "name": "Kommando",
+      "bundleIdentifier": "com.nicolas.NAS",
+      "developerName": "Nicolas",
+      "subtitle": "Server-Steuerung",
+      "localizedDescription": "Steuere deinen Heim-Server (TrueNAS, Jellyfin, Dienste, Minecraft). Eigener Server-Login nötig.",
+      "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kommando.png",
+      "tintColor": "6FB0AB",
+      "category": "utilities",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-07-17",
+          "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/NAS.ipa",
+          "size": 2262399,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-07-17",
+      "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/NAS.ipa",
+      "size": 2262399,
+      "minOSVersion": "26.0"
+    },
+    {
+      "name": "Kurs",
+      "bundleIdentifier": "com.nicolas.Kurs",
+      "developerName": "Nicolas",
+      "subtitle": "Navigation",
+      "localizedDescription": "CarPlay-Ersatz fürs iPad/iPhone: Navigation, Blitzer-Warnungen, Tempo, Tankstand & Musik.",
+      "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kurs.png",
+      "tintColor": "6FB0AB",
+      "category": "utilities",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kurs.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-07-17",
+          "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
+          "size": 1588895,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-07-17",
+      "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
+      "size": 1588895,
+      "minOSVersion": "26.0"
+    }
+  ],
+  "news": []
+}
