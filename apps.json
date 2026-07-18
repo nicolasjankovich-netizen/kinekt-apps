@@ -144,7 +144,7 @@
           "buildVersion": "7",
           "date": "2026-07-18",
           "localizedDescription": "Versions-Anzeige in den Einstellungen (Status → Version).",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-7.ipa",
           "size": 1627588,
           "minOSVersion": "26.0"
         }
@@ -152,7 +152,7 @@
       "version": "1.6",
       "versionDate": "2026-07-18",
       "versionDescription": "Versions-Anzeige in den Einstellungen (Status → Version).",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-7.ipa",
       "size": 1627588,
       "minOSVersion": "26.0",
       "buildVersion": "7"
