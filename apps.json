@@ -149,11 +149,11 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.12",
-      "versionDate": "2026-07-18",
-      "versionDescription": "Dashcam-Aufnahme in der App: REC-Button auf der Kamera-Kachel — Ringspeicher letzte 30 Min (5-Min-Clips, ohne Audio), Clips in der Dateien-App, Aufnahme startet nach Neustart automatisch weiter",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-17.ipa",
-      "size": 1704324,
+      "version": "1.13",
+      "versionDate": "2026-07-19",
+      "versionDescription": "Kamera-Paket: harte Bremsung & Blitzer-Passage sichern automatisch Dashcam-Clips (Ordner ‚Ereignisse') · Ortstafel-Erkennung → innerorts 50 · Ampel-Grün-Ping (Beta, Einstellungen)",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-18.ipa",
+      "size": 1718991,
       "minOSVersion": "26.0",
       "buildVersion": "9"
     }
