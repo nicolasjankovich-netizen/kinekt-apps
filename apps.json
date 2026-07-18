@@ -140,6 +140,15 @@
       ],
       "versions": [
         {
+          "version": "1.14.1",
+          "buildVersion": "20",
+          "date": "2026-07-19",
+          "localizedDescription": "Dashcam-Bedienung neu: eigener Video-Knopf in der Knopf-Spalte blendet den Kamera-Feed ein/aus (Aufnahme + Erkennung laufen weiter, roter Punkt = REC aktiv) · Kachel größer mit richtigem REC-Knopf",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-20.ipa",
+          "size": 1743906,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.14",
           "buildVersion": "19",
           "date": "2026-07-19",
@@ -158,13 +167,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.14",
+      "version": "1.14.1",
       "versionDate": "2026-07-19",
-      "versionDescription": "Kalibrier-Werkzeug: Fahr-Log (GPS, Erkennungen, verworfene OCR, Blitzer, Limits) · Kachel antippen = Stelle markieren + Clip sichern · Einstellungen → Fahr-Logs teilen (AirDrop)",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-19.ipa",
-      "size": 1736360,
+      "versionDescription": "Dashcam-Bedienung neu: eigener Video-Knopf in der Knopf-Spalte blendet den Kamera-Feed ein/aus (Aufnahme + Erkennung laufen weiter, roter Punkt = REC aktiv) · Kachel größer mit richtigem REC-Knopf",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-20.ipa",
+      "size": 1743906,
       "minOSVersion": "26.0",
-      "buildVersion": "19"
+      "buildVersion": "20"
     }
   ],
   "news": []
