@@ -140,6 +140,15 @@
       ],
       "versions": [
         {
+          "version": "1.14.2",
+          "buildVersion": "21",
+          "date": "2026-07-19",
+          "localizedDescription": "Dashcam-Feinschliff: Kamera-Drehung einstellbar (0/90/180/270° — fixt das falsch gedrehte Video) · Aufnahme-Schalter auch in den Einstellungen · Feed-Kachel jetzt oben mittig, responsiv",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-21.ipa",
+          "size": 1753560,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.14.1",
           "buildVersion": "20",
           "date": "2026-07-19",
@@ -167,13 +176,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.14.1",
+      "version": "1.14.2",
       "versionDate": "2026-07-19",
-      "versionDescription": "Dashcam-Bedienung neu: eigener Video-Knopf in der Knopf-Spalte blendet den Kamera-Feed ein/aus (Aufnahme + Erkennung laufen weiter, roter Punkt = REC aktiv) · Kachel größer mit richtigem REC-Knopf",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-20.ipa",
-      "size": 1743906,
+      "versionDescription": "Dashcam-Feinschliff: Kamera-Drehung einstellbar (0/90/180/270° — fixt das falsch gedrehte Video) · Aufnahme-Schalter auch in den Einstellungen · Feed-Kachel jetzt oben mittig, responsiv",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-21.ipa",
+      "size": 1753560,
       "minOSVersion": "26.0",
-      "buildVersion": "20"
+      "buildVersion": "21"
     }
   ],
   "news": []
