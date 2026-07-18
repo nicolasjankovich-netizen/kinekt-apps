@@ -149,11 +149,11 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.9",
+      "version": "1.9.1",
       "versionDate": "2026-07-18",
-      "versionDescription": "Map folgt jetzt zuverlässig dem Fahrer · Player neu: Tap = Pause, Swipe = Song wechseln (öffnet nichts mehr) · Blitzer-Warner komplett überarbeitet (mehr Blitzer, kein Flackern, warnt zuverlässig auf der Route) · schneller überall",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-10.ipa",
-      "size": 1610330,
+      "versionDescription": "Tacho jetzt wirklich smooth: zählt durch jede Zahl statt zu springen · Karte läuft mit 30 Hz butterweich · Demo-Fahrt flüssig · weniger Hintergrund-Last",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-11.ipa",
+      "size": 1609963,
       "minOSVersion": "26.0",
       "buildVersion": "9"
     }
