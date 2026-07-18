@@ -140,6 +140,15 @@
       ],
       "versions": [
         {
+          "version": "1.14.3",
+          "buildVersion": "22",
+          "date": "2026-07-19",
+          "localizedDescription": "Spiegel-Schalter für die Kamera (fixt das gespiegelte Bild — wirkt auch auf Aufnahme + Erkennung) · Aufnahme läuft jetzt immer automatisch mit (roter Punkt) · Einstellungen-Schalter steuert die Feed-Anzeige",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-22.ipa",
+          "size": 1755332,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.14.2",
           "buildVersion": "21",
           "date": "2026-07-19",
@@ -176,13 +185,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.14.2",
+      "version": "1.14.3",
       "versionDate": "2026-07-19",
-      "versionDescription": "Dashcam-Feinschliff: Kamera-Drehung einstellbar (0/90/180/270° — fixt das falsch gedrehte Video) · Aufnahme-Schalter auch in den Einstellungen · Feed-Kachel jetzt oben mittig, responsiv",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-21.ipa",
-      "size": 1753560,
+      "versionDescription": "Spiegel-Schalter für die Kamera (fixt das gespiegelte Bild — wirkt auch auf Aufnahme + Erkennung) · Aufnahme läuft jetzt immer automatisch mit (roter Punkt) · Einstellungen-Schalter steuert die Feed-Anzeige",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-22.ipa",
+      "size": 1755332,
       "minOSVersion": "26.0",
-      "buildVersion": "21"
+      "buildVersion": "22"
     }
   ],
   "news": []
