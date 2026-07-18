@@ -140,22 +140,22 @@
       ],
       "versions": [
         {
-          "version": "1.4",
-          "buildVersion": "5",
+          "version": "1.5",
+          "buildVersion": "6",
           "date": "2026-07-18",
-          "localizedDescription": "Karten-Ruckeln behoben + stärkere 3D-Neigung bei Tempo, Tesla-Tacho (rollt pro km/h, reaktiver), Tempo-Limit-Schild zuverlässiger, Kreisverkehr-Ausfahrtnummer, größere ETA/Musik-Regler + Zurück-Button, breitere Volume-Trefferfläche.",
+          "localizedDescription": "Fahrt-Puck größer & sitzt höher (nie am Bildrand/aus dem Bild), plus alle Fahr-Upgrades (glatte 3D-Karte, Tesla-Tacho, Limit-Schild, Kreisel-Ausfahrt, größere Regler).",
           "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
-          "size": 1627857,
+          "size": 1627864,
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.4",
+      "version": "1.5",
       "versionDate": "2026-07-18",
-      "versionDescription": "Karten-Ruckeln behoben + stärkere 3D-Neigung bei Tempo, Tesla-Tacho (rollt pro km/h, reaktiver), Tempo-Limit-Schild zuverlässiger, Kreisverkehr-Ausfahrtnummer, größere ETA/Musik-Regler + Zurück-Button, breitere Volume-Trefferfläche.",
+      "versionDescription": "Fahrt-Puck größer & sitzt höher (nie am Bildrand/aus dem Bild), plus alle Fahr-Upgrades (glatte 3D-Karte, Tesla-Tacho, Limit-Schild, Kreisel-Ausfahrt, größere Regler).",
       "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
-      "size": 1627857,
+      "size": 1627864,
       "minOSVersion": "26.0",
-      "buildVersion": "5"
+      "buildVersion": "6"
     }
   ],
   "news": []
