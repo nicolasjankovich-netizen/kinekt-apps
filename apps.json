@@ -140,6 +140,15 @@
       ],
       "versions": [
         {
+          "version": "1.15",
+          "buildVersion": "23",
+          "date": "2026-07-19",
+          "localizedDescription": "Dashcam-Konzept final: KEINE Daueraufnahme mehr — die Kamera puffert nur die letzten ~2 Min (Pre-Capture). Der Clip-Knopf sichert rückwirkend + 10 s Nachlauf; Bremsung/Blitzer sichern automatisch. Daueraufnahme (30-Min-Ring) wahlweise in den Einstellungen zuschaltbar.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-23.ipa",
+          "size": 1757764,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.14.3",
           "buildVersion": "22",
           "date": "2026-07-19",
@@ -185,13 +194,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.14.3",
+      "version": "1.15",
       "versionDate": "2026-07-19",
-      "versionDescription": "Spiegel-Schalter für die Kamera (fixt das gespiegelte Bild — wirkt auch auf Aufnahme + Erkennung) · Aufnahme läuft jetzt immer automatisch mit (roter Punkt) · Einstellungen-Schalter steuert die Feed-Anzeige",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-22.ipa",
-      "size": 1755332,
+      "versionDescription": "Dashcam-Konzept final: KEINE Daueraufnahme mehr — die Kamera puffert nur die letzten ~2 Min (Pre-Capture). Der Clip-Knopf sichert rückwirkend + 10 s Nachlauf; Bremsung/Blitzer sichern automatisch. Daueraufnahme (30-Min-Ring) wahlweise in den Einstellungen zuschaltbar.",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-23.ipa",
+      "size": 1757764,
       "minOSVersion": "26.0",
-      "buildVersion": "22"
+      "buildVersion": "23"
     }
   ],
   "news": []
