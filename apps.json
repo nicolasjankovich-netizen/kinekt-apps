@@ -149,11 +149,11 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.9.2",
+      "version": "1.10",
       "versionDate": "2026-07-18",
-      "versionDescription": "Head-up-Display zeigt jetzt das Tempolimit-Schild (rot bei Overspeed) — auch ohne Route, genau wie die Blitzer-Warnung",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-12.ipa",
-      "size": 1616693,
+      "versionDescription": "Funkloch-Modus: Route läuft ohne Netz ruhig weiter (kein Reroute-Spam) · NEU (Beta): Schild-Kamera im HUD — iPhone an die Scheibe, Kamera-Knopf an, erkannte Tempolimit-Schilder übersteuern OSM (auch aufm iPad), alles on-device",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-13.ipa",
+      "size": 1642148,
       "minOSVersion": "26.0",
       "buildVersion": "9"
     }
