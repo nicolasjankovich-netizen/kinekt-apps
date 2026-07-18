@@ -140,22 +140,22 @@
       ],
       "versions": [
         {
-          "version": "1.6",
-          "buildVersion": "7",
+          "version": "1.7",
+          "buildVersion": "8",
           "date": "2026-07-18",
-          "localizedDescription": "Versions-Anzeige in den Einstellungen (Status → Version).",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-7.ipa",
-          "size": 1627588,
+          "localizedDescription": "HUD-Tacho nutzt jetzt die 60-Hz-Fusion vom iPhone direkt (butterweich + rollt pro km/h wie auf dem iPad-Screen), statt der ruckeligen 1-Hz-Werte.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-8.ipa",
+          "size": 1630405,
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.6",
+      "version": "1.7",
       "versionDate": "2026-07-18",
-      "versionDescription": "Versions-Anzeige in den Einstellungen (Status → Version).",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-7.ipa",
-      "size": 1627588,
+      "versionDescription": "HUD-Tacho nutzt jetzt die 60-Hz-Fusion vom iPhone direkt (butterweich + rollt pro km/h wie auf dem iPad-Screen), statt der ruckeligen 1-Hz-Werte.",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-8.ipa",
+      "size": 1630405,
       "minOSVersion": "26.0",
-      "buildVersion": "7"
+      "buildVersion": "8"
     }
   ],
   "news": []
