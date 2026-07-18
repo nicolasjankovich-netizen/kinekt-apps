@@ -149,11 +149,11 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.11",
+      "version": "1.11.1",
       "versionDate": "2026-07-18",
-      "versionDescription": "GoPro Hero 7 als einzige Auto-Kamera: Live-Feed direkt aufs iPad (Dashcam-Kachel im Fahr-Screen) + Schild-Erkennung läuft auf dem Feed — Einstellungen → GoPro-Dashcam, iPad ins GoPro-WLAN, fertig",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-15.ipa",
-      "size": 1674675,
+      "versionDescription": "Dashcam jetzt KABELGEBUNDEN möglich: GoPro-HDMI → USB-Capture-Stick → iPad (UVC) — WLAN bleibt beim Hotspot, GPS-Link stabil. Einstellungen → Dashcam: Aus/Kabel/WLAN",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-16.ipa",
+      "size": 1687361,
       "minOSVersion": "26.0",
       "buildVersion": "9"
     }
