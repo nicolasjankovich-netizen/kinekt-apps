@@ -140,22 +140,22 @@
       ],
       "versions": [
         {
-          "version": "1.3",
-          "buildVersion": "4",
+          "version": "1.4",
+          "buildVersion": "5",
           "date": "2026-07-18",
-          "localizedDescription": "Abbiege-Karte & Tacho exakt gleich hoch in einer Reihe, größeres Logo, relativer Lautstärke-Slider (Apple-Music-Stil), plus 60-Hz-Tacho-Fusion, Apple-3D-Karte & Blitzer im HUD.",
+          "localizedDescription": "Karten-Ruckeln behoben + stärkere 3D-Neigung bei Tempo, Tesla-Tacho (rollt pro km/h, reaktiver), Tempo-Limit-Schild zuverlässiger, Kreisverkehr-Ausfahrtnummer, größere ETA/Musik-Regler + Zurück-Button, breitere Volume-Trefferfläche.",
           "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
-          "size": 1622712,
+          "size": 1627857,
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.3",
+      "version": "1.4",
       "versionDate": "2026-07-18",
-      "versionDescription": "Abbiege-Karte & Tacho exakt gleich hoch in einer Reihe, größeres Logo, relativer Lautstärke-Slider (Apple-Music-Stil), plus 60-Hz-Tacho-Fusion, Apple-3D-Karte & Blitzer im HUD.",
+      "versionDescription": "Karten-Ruckeln behoben + stärkere 3D-Neigung bei Tempo, Tesla-Tacho (rollt pro km/h, reaktiver), Tempo-Limit-Schild zuverlässiger, Kreisverkehr-Ausfahrtnummer, größere ETA/Musik-Regler + Zurück-Button, breitere Volume-Trefferfläche.",
       "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
-      "size": 1622712,
+      "size": 1627857,
       "minOSVersion": "26.0",
-      "buildVersion": "4"
+      "buildVersion": "5"
     }
   ],
   "news": []
