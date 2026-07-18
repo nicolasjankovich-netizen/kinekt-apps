@@ -140,6 +140,15 @@
       ],
       "versions": [
         {
+          "version": "1.14",
+          "buildVersion": "19",
+          "date": "2026-07-19",
+          "localizedDescription": "Großes Update: Karte folgt zuverlässig · Player: Tap=Pause, Swipe=Song · Blitzer-Warner überarbeitet (mehr Blitzer, kein Flackern) · Tacho endlich smooth · Tempolimit im HUD · Funkloch-Modus · Schild-Kamera (iPhone) · GoPro-Dashcam per Kabel/WLAN mit Aufnahme, Ereignis-Clips (Bremsung/Blitzer), Ortstafel→50, Ampel-Ping (Beta) · Fahr-Log fürs Kalibrieren",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-19.ipa",
+          "size": 1736360,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.8",
           "buildVersion": "9",
           "date": "2026-07-18",
@@ -155,7 +164,7 @@
       "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-19.ipa",
       "size": 1736360,
       "minOSVersion": "26.0",
-      "buildVersion": "9"
+      "buildVersion": "19"
     }
   ],
   "news": []
