@@ -140,22 +140,22 @@
       ],
       "versions": [
         {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-07-17",
-          "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+          "version": "1.1",
+          "buildVersion": "2",
+          "date": "2026-07-18",
+          "localizedDescription": "Lautstärke-Slider links, Apple-3D-Karte (Pitch, größeres Auto, weiche Kamera), Blitzer im Tacho/HUD + iPad-Platzierung.",
           "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
-          "size": 1588895,
+          "size": 1618611,
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.0",
-      "versionDate": "2026-07-17",
-      "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+      "version": "1.1",
+      "versionDate": "2026-07-18",
+      "versionDescription": "Lautstärke-Slider links, Apple-3D-Karte (Pitch, größeres Auto, weiche Kamera), Blitzer im Tacho/HUD + iPad-Platzierung.",
       "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
-      "size": 1588895,
+      "size": 1618611,
       "minOSVersion": "26.0",
-      "buildVersion": "1"
+      "buildVersion": "2"
     }
   ],
   "news": []
