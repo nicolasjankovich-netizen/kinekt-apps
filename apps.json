@@ -140,22 +140,22 @@
       ],
       "versions": [
         {
-          "version": "1.7",
-          "buildVersion": "8",
+          "version": "1.8",
+          "buildVersion": "9",
           "date": "2026-07-18",
-          "localizedDescription": "HUD-Tacho nutzt jetzt die 60-Hz-Fusion vom iPhone direkt (butterweich + rollt pro km/h wie auf dem iPad-Screen), statt der ruckeligen 1-Hz-Werte.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-8.ipa",
-          "size": 1630405,
+          "localizedDescription": "Tacho ruhiger: Hysterese gegen das Zappeln zwischen zwei km/h (49↔50), rollt weiterhin reaktiv hoch beim Gas / runter beim Bremsen. Gilt für iPad-Screen + HUD.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-9.ipa",
+          "size": 1627639,
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.7",
+      "version": "1.8",
       "versionDate": "2026-07-18",
-      "versionDescription": "HUD-Tacho nutzt jetzt die 60-Hz-Fusion vom iPhone direkt (butterweich + rollt pro km/h wie auf dem iPad-Screen), statt der ruckeligen 1-Hz-Werte.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-8.ipa",
-      "size": 1630405,
+      "versionDescription": "Tacho ruhiger: Hysterese gegen das Zappeln zwischen zwei km/h (49↔50), rollt weiterhin reaktiv hoch beim Gas / runter beim Bremsen. Gilt für iPad-Screen + HUD.",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-9.ipa",
+      "size": 1627639,
       "minOSVersion": "26.0",
-      "buildVersion": "8"
+      "buildVersion": "9"
     }
   ],
   "news": []
