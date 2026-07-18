@@ -149,11 +149,11 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.8",
+      "version": "1.9",
       "versionDate": "2026-07-18",
-      "versionDescription": "Tacho ruhiger: Hysterese gegen das Zappeln zwischen zwei km/h (49↔50), rollt weiterhin reaktiv hoch beim Gas / runter beim Bremsen. Gilt für iPad-Screen + HUD.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-9.ipa",
-      "size": 1627639,
+      "versionDescription": "Map folgt jetzt zuverlässig dem Fahrer · Player neu: Tap = Pause, Swipe = Song wechseln (öffnet nichts mehr) · Blitzer-Warner komplett überarbeitet (mehr Blitzer, kein Flackern, warnt zuverlässig auf der Route) · schneller überall",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-10.ipa",
+      "size": 1610330,
       "minOSVersion": "26.0",
       "buildVersion": "9"
     }
