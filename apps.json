@@ -140,22 +140,22 @@
       ],
       "versions": [
         {
-          "version": "1.2",
-          "buildVersion": "3",
+          "version": "1.3",
+          "buildVersion": "4",
           "date": "2026-07-18",
-          "localizedDescription": "Butterweicher Tacho (GPS+Accelerometer-Fusion, 60 Hz), km/h bleibt beim Abbiegen an fester Stelle, plus Volume-Slider, Apple-3D-Karte & Blitzer im HUD.",
+          "localizedDescription": "Abbiege-Karte & Tacho exakt gleich hoch in einer Reihe, größeres Logo, relativer Lautstärke-Slider (Apple-Music-Stil), plus 60-Hz-Tacho-Fusion, Apple-3D-Karte & Blitzer im HUD.",
           "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
-          "size": 1621463,
+          "size": 1622712,
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.2",
+      "version": "1.3",
       "versionDate": "2026-07-18",
-      "versionDescription": "Butterweicher Tacho (GPS+Accelerometer-Fusion, 60 Hz), km/h bleibt beim Abbiegen an fester Stelle, plus Volume-Slider, Apple-3D-Karte & Blitzer im HUD.",
+      "versionDescription": "Abbiege-Karte & Tacho exakt gleich hoch in einer Reihe, größeres Logo, relativer Lautstärke-Slider (Apple-Music-Stil), plus 60-Hz-Tacho-Fusion, Apple-3D-Karte & Blitzer im HUD.",
       "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
-      "size": 1621463,
+      "size": 1622712,
       "minOSVersion": "26.0",
-      "buildVersion": "3"
+      "buildVersion": "4"
     }
   ],
   "news": []
