@@ -140,22 +140,22 @@
       ],
       "versions": [
         {
-          "version": "1.5",
-          "buildVersion": "6",
+          "version": "1.6",
+          "buildVersion": "7",
           "date": "2026-07-18",
-          "localizedDescription": "Fahrt-Puck größer & sitzt höher (nie am Bildrand/aus dem Bild), plus alle Fahr-Upgrades (glatte 3D-Karte, Tesla-Tacho, Limit-Schild, Kreisel-Ausfahrt, größere Regler).",
+          "localizedDescription": "Versions-Anzeige in den Einstellungen (Status → Version).",
           "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
-          "size": 1627864,
+          "size": 1627588,
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.5",
+      "version": "1.6",
       "versionDate": "2026-07-18",
-      "versionDescription": "Fahrt-Puck größer & sitzt höher (nie am Bildrand/aus dem Bild), plus alle Fahr-Upgrades (glatte 3D-Karte, Tesla-Tacho, Limit-Schild, Kreisel-Ausfahrt, größere Regler).",
+      "versionDescription": "Versions-Anzeige in den Einstellungen (Status → Version).",
       "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
-      "size": 1627864,
+      "size": 1627588,
       "minOSVersion": "26.0",
-      "buildVersion": "6"
+      "buildVersion": "7"
     }
   ],
   "news": []
