@@ -149,11 +149,11 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.13",
+      "version": "1.14",
       "versionDate": "2026-07-19",
-      "versionDescription": "Kamera-Paket: harte Bremsung & Blitzer-Passage sichern automatisch Dashcam-Clips (Ordner ‚Ereignisse') · Ortstafel-Erkennung → innerorts 50 · Ampel-Grün-Ping (Beta, Einstellungen)",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-18.ipa",
-      "size": 1718991,
+      "versionDescription": "Kalibrier-Werkzeug: Fahr-Log (GPS, Erkennungen, verworfene OCR, Blitzer, Limits) · Kachel antippen = Stelle markieren + Clip sichern · Einstellungen → Fahr-Logs teilen (AirDrop)",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-19.ipa",
+      "size": 1736360,
       "minOSVersion": "26.0",
       "buildVersion": "9"
     }
