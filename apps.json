@@ -149,11 +149,11 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.10",
+      "version": "1.10.1",
       "versionDate": "2026-07-18",
-      "versionDescription": "Funkloch-Modus: Route läuft ohne Netz ruhig weiter (kein Reroute-Spam) · NEU (Beta): Schild-Kamera im HUD — iPhone an die Scheibe, Kamera-Knopf an, erkannte Tempolimit-Schilder übersteuern OSM (auch aufm iPad), alles on-device",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-13.ipa",
-      "size": 1642148,
+      "versionDescription": "HUD öffnen = Schild-Kamera startet automatisch mit (Kamera-Knopf schaltet ab und merkt sich das)",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-14.ipa",
+      "size": 1642413,
       "minOSVersion": "26.0",
       "buildVersion": "9"
     }
