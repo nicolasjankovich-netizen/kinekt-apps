@@ -140,22 +140,22 @@
       ],
       "versions": [
         {
-          "version": "1.1",
-          "buildVersion": "2",
+          "version": "1.2",
+          "buildVersion": "3",
           "date": "2026-07-18",
-          "localizedDescription": "Lautstärke-Slider links, Apple-3D-Karte (Pitch, größeres Auto, weiche Kamera), Blitzer im Tacho/HUD + iPad-Platzierung.",
+          "localizedDescription": "Butterweicher Tacho (GPS+Accelerometer-Fusion, 60 Hz), km/h bleibt beim Abbiegen an fester Stelle, plus Volume-Slider, Apple-3D-Karte & Blitzer im HUD.",
           "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
-          "size": 1618611,
+          "size": 1621463,
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.1",
+      "version": "1.2",
       "versionDate": "2026-07-18",
-      "versionDescription": "Lautstärke-Slider links, Apple-3D-Karte (Pitch, größeres Auto, weiche Kamera), Blitzer im Tacho/HUD + iPad-Platzierung.",
+      "versionDescription": "Butterweicher Tacho (GPS+Accelerometer-Fusion, 60 Hz), km/h bleibt beim Abbiegen an fester Stelle, plus Volume-Slider, Apple-3D-Karte & Blitzer im HUD.",
       "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs.ipa",
-      "size": 1618611,
+      "size": 1621463,
       "minOSVersion": "26.0",
-      "buildVersion": "2"
+      "buildVersion": "3"
     }
   ],
   "news": []
