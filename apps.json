@@ -140,6 +140,15 @@
       ],
       "versions": [
         {
+          "version": "1.20",
+          "buildVersion": "31",
+          "date": "2026-07-19",
+          "localizedDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-31.ipa",
+          "size": 6672822,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.19.3",
           "buildVersion": "30",
           "date": "2026-07-19T17:00:00Z",
@@ -250,13 +259,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.19.3",
-      "versionDate": "2026-07-19T17:00:00Z",
-      "versionDescription": "1.19.3: ‚Schild verpasst!'-Knopf im Kalibrier-Browser (Beifahrer) — ein Tipper loggt es, sichert Clip UND Standbild als Nachtrainings-Material.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-30.ipa",
-      "size": 6641566,
+      "version": "1.20",
+      "versionDate": "2026-07-19",
+      "versionDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-31.ipa",
+      "size": 6672822,
       "minOSVersion": "26.0",
-      "buildVersion": "30"
+      "buildVersion": "31"
     }
   ],
   "news": []
