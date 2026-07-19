@@ -140,6 +140,14 @@
       ],
       "versions": [
         {
+          "version": "1.19",
+          "buildVersion": "27",
+          "date": "2026-07-19T15:50:00Z",
+          "size": 6644690,
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-27.ipa",
+          "localizedDescription": "1.19: KI-Modell Runde 2 (mAP50 0.93) — erkennt jetzt auch Stop, Vorfahrt gewähren, Einfahrt verboten, Überholverbot und ‚Ende aller Verbote' (hebt das Kamera-Limit automatisch auf). Kalibrier-Browser mit allen 13 Klassen."
+        },
+        {
           "version": "1.18",
           "buildVersion": "26",
           "date": "2026-07-19T13:10:00Z",
@@ -218,13 +226,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.18",
-      "versionDate": "2026-07-19T13:10:00Z",
-      "versionDescription": "1.18: Kalibrier-Browser jetzt mit echtem Live-Videostream (MJPEG ~8fps) + vollem Debug/Tweak-Menü: Gerade-erkannt-Schilder mit Konfidenz, Erkennungs-ms, KI-Klassen-Filter, Schnappschuss-Knopf (Nachtrainings-Material).",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-26.ipa",
-      "size": 6640291,
+      "version": "1.19",
+      "versionDate": "2026-07-19T15:50:00Z",
+      "versionDescription": "1.19: KI-Modell Runde 2 (mAP50 0.93) — erkennt jetzt auch Stop, Vorfahrt gewähren, Einfahrt verboten, Überholverbot und ‚Ende aller Verbote' (hebt das Kamera-Limit automatisch auf). Kalibrier-Browser mit allen 13 Klassen.",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-27.ipa",
+      "size": 6644690,
       "minOSVersion": "26.0",
-      "buildVersion": "26"
+      "buildVersion": "27"
     }
   ],
   "news": []
