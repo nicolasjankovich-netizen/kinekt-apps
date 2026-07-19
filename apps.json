@@ -140,6 +140,14 @@
       ],
       "versions": [
         {
+          "version": "1.19.3",
+          "buildVersion": "30",
+          "date": "2026-07-19T17:00:00Z",
+          "size": 6641566,
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-30.ipa",
+          "localizedDescription": "1.19.3: ‚Schild verpasst!'-Knopf im Kalibrier-Browser (Beifahrer) — ein Tipper loggt es, sichert Clip UND Standbild als Nachtrainings-Material."
+        },
+        {
           "version": "1.19.2",
           "buildVersion": "29",
           "date": "2026-07-19T16:40:00Z",
@@ -242,13 +250,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.19.2",
-      "versionDate": "2026-07-19T16:40:00Z",
-      "versionDescription": "1.19.2: Clip-Knopf von der Kamera-Kachel entfernt (doppelt — der Record-Knopf unten rechts sichert Clips). Kachel-Tap = Marke bleibt.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-29.ipa",
-      "size": 6640880,
+      "version": "1.19.3",
+      "versionDate": "2026-07-19T17:00:00Z",
+      "versionDescription": "1.19.3: ‚Schild verpasst!'-Knopf im Kalibrier-Browser (Beifahrer) — ein Tipper loggt es, sichert Clip UND Standbild als Nachtrainings-Material.",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-30.ipa",
+      "size": 6641566,
       "minOSVersion": "26.0",
-      "buildVersion": "29"
+      "buildVersion": "30"
     }
   ],
   "news": []
