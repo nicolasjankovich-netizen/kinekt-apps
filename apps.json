@@ -140,6 +140,14 @@
       ],
       "versions": [
         {
+          "version": "1.16",
+          "buildVersion": "24",
+          "date": "2026-07-19T10:30:00Z",
+          "size": 1790090,
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-24.ipa",
+          "localizedDescription": "1.16: Dashcam-Kachel mittig zwischen Abbiege-Karte und Tacho · Record-Knopf (Tap = Clip sichern, Long-Press = Feed an/aus) · Live-Kalibrierung: Beifahrer-Mac sieht Kamerabild+Erkennung+Log im Browser, Parameter sofort verstellbar."
+        },
+        {
           "version": "1.15",
           "buildVersion": "23",
           "date": "2026-07-19",
@@ -194,13 +202,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.15",
-      "versionDate": "2026-07-19",
-      "versionDescription": "Dashcam-Konzept final: KEINE Daueraufnahme mehr — die Kamera puffert nur die letzten ~2 Min (Pre-Capture). Der Clip-Knopf sichert rückwirkend + 10 s Nachlauf; Bremsung/Blitzer sichern automatisch. Daueraufnahme (30-Min-Ring) wahlweise in den Einstellungen zuschaltbar.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-23.ipa",
-      "size": 1757764,
+      "version": "1.16",
+      "versionDate": "2026-07-19T10:30:00Z",
+      "versionDescription": "1.16: Dashcam-Kachel mittig zwischen Abbiege-Karte und Tacho · Record-Knopf (Tap = Clip sichern, Long-Press = Feed an/aus) · Live-Kalibrierung: Beifahrer-Mac sieht Kamerabild+Erkennung+Log im Browser, Parameter sofort verstellbar.",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-24.ipa",
+      "size": 1790090,
       "minOSVersion": "26.0",
-      "buildVersion": "23"
+      "buildVersion": "24"
     }
   ],
   "news": []
