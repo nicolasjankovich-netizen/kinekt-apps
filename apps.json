@@ -140,6 +140,14 @@
       ],
       "versions": [
         {
+          "version": "1.19.2",
+          "buildVersion": "29",
+          "date": "2026-07-19T16:40:00Z",
+          "size": 6640880,
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-29.ipa",
+          "localizedDescription": "1.19.2: Clip-Knopf von der Kamera-Kachel entfernt (doppelt — der Record-Knopf unten rechts sichert Clips). Kachel-Tap = Marke bleibt."
+        },
+        {
           "version": "1.19.1",
           "buildVersion": "28",
           "date": "2026-07-19T16:20:00Z",
@@ -234,13 +242,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.19.1",
-      "versionDate": "2026-07-19T16:20:00Z",
-      "versionDescription": "1.19.1: Crash-Fix — App stürzte ab, wenn die Dashcam an war, aber keine Kamera angeschlossen (Aufnahme-Start ohne Video-Signal). Wartet jetzt geduldig und legt los, sobald die Kamera dran ist.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-28.ipa",
-      "size": 6644366,
+      "version": "1.19.2",
+      "versionDate": "2026-07-19T16:40:00Z",
+      "versionDescription": "1.19.2: Clip-Knopf von der Kamera-Kachel entfernt (doppelt — der Record-Knopf unten rechts sichert Clips). Kachel-Tap = Marke bleibt.",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-29.ipa",
+      "size": 6640880,
       "minOSVersion": "26.0",
-      "buildVersion": "28"
+      "buildVersion": "29"
     }
   ],
   "news": []
