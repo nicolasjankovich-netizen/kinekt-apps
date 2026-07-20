@@ -131,7 +131,7 @@
       "bundleIdentifier": "com.nicolas.Kurs",
       "developerName": "Nicolas",
       "subtitle": "Navigation",
-      "localizedDescription": "Schilderkennung kalibriert nach Testfahrten: Fenster-Bestätigung (keine falschen Limits mehr durch einzelne Fehltreffer), OCR-Gegencheck der KI-Box (40er wird nicht mehr zu 60), Nacht-Modus mit strengeren Schwellen, Mindest-Boxgröße, Log-Spam weg.",
+      "localizedDescription": "Neues KI-Modell (mit deinen echten Fahrten trainiert — 80er-Fix!), Nacht-Paket (Boost, 5 Analysen/s, 2-Treffer), Verkehrs-Debug (Autos/Personen/Ampeln im Kalibrier-Browser), Tacho mit Kamera-Limit-Kennzeichnung.",
       "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kurs.png",
       "tintColor": "6FB0AB",
       "category": "utilities",
@@ -139,6 +139,15 @@
         "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kurs.png"
       ],
       "versions": [
+        {
+          "version": "1.22",
+          "buildVersion": "33",
+          "date": "2026-07-20",
+          "localizedDescription": "Neues KI-Modell (mit deinen echten Fahrten trainiert — 80er-Fix!), Nacht-Paket (Boost, 5 Analysen/s, 2-Treffer), Verkehrs-Debug (Autos/Personen/Ampeln im Kalibrier-Browser), Tacho mit Kamera-Limit-Kennzeichnung.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-33.ipa",
+          "size": 11594695,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.21",
           "buildVersion": "32",
@@ -268,13 +277,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.21",
+      "version": "1.22",
       "versionDate": "2026-07-20",
       "versionDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-32.ipa",
-      "size": 6679524,
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-33.ipa",
+      "size": 11594695,
       "minOSVersion": "26.0",
-      "buildVersion": "32"
+      "buildVersion": "33"
     }
   ],
   "news": []
