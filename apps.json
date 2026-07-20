@@ -131,7 +131,7 @@
       "bundleIdentifier": "com.nicolas.Kurs",
       "developerName": "Nicolas",
       "subtitle": "Navigation",
-      "localizedDescription": "CarPlay-Ersatz fürs iPad/iPhone: Navigation, Blitzer-Warnungen, Tempo, Tankstand & Musik.",
+      "localizedDescription": "Schilderkennung kalibriert nach Testfahrten: Fenster-Bestätigung (keine falschen Limits mehr durch einzelne Fehltreffer), OCR-Gegencheck der KI-Box (40er wird nicht mehr zu 60), Nacht-Modus mit strengeren Schwellen, Mindest-Boxgröße, Log-Spam weg.",
       "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kurs.png",
       "tintColor": "6FB0AB",
       "category": "utilities",
@@ -139,6 +139,15 @@
         "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kurs.png"
       ],
       "versions": [
+        {
+          "version": "1.21",
+          "buildVersion": "32",
+          "date": "2026-07-20",
+          "localizedDescription": "Schilderkennung kalibriert nach Testfahrten: Fenster-Bestätigung (keine falschen Limits mehr durch einzelne Fehltreffer), OCR-Gegencheck der KI-Box (40er wird nicht mehr zu 60), Nacht-Modus mit strengeren Schwellen, Mindest-Boxgröße, Log-Spam weg.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-32.ipa",
+          "size": 6679524,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.20",
           "buildVersion": "31",
@@ -259,13 +268,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.20",
-      "versionDate": "2026-07-19",
+      "version": "1.21",
+      "versionDate": "2026-07-20",
       "versionDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-31.ipa",
-      "size": 6672822,
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-32.ipa",
+      "size": 6679524,
       "minOSVersion": "26.0",
-      "buildVersion": "31"
+      "buildVersion": "32"
     }
   ],
   "news": []
