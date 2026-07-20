@@ -131,7 +131,7 @@
       "bundleIdentifier": "com.nicolas.Kurs",
       "developerName": "Nicolas",
       "subtitle": "Navigation",
-      "localizedDescription": "Müdigkeits-Warnung zurück (Kamera-Bindung robust gefixt — Vorschau bleibt Rückkamera). Alle Features aktiv. Runde-4-Modell folgt heute als v1.33.",
+      "localizedDescription": "Ereignis-Archiv (Clips ansehen/teilen/löschen in der App), Schöne-Strecke-Modus (kurvige Route fürs Cabrio), Parkwächter (Person am Auto → Clip+Push), Bahnübergang/Zebrastreifen-Verhalten, CAN-Mitschnitt vorbereitet, Fahrtenbuch-Dashboard.",
       "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kurs.png",
       "tintColor": "6FB0AB",
       "category": "utilities",
@@ -139,6 +139,15 @@
         "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kurs.png"
       ],
       "versions": [
+        {
+          "version": "1.33",
+          "buildVersion": "48",
+          "date": "2026-07-20",
+          "localizedDescription": "Ereignis-Archiv (Clips ansehen/teilen/löschen in der App), Schöne-Strecke-Modus (kurvige Route fürs Cabrio), Parkwächter (Person am Auto → Clip+Push), Bahnübergang/Zebrastreifen-Verhalten, CAN-Mitschnitt vorbereitet, Fahrtenbuch-Dashboard.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-48.ipa",
+          "size": 11785187,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.32",
           "buildVersion": "47",
@@ -403,13 +412,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.32",
+      "version": "1.33",
       "versionDate": "2026-07-20",
       "versionDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-47.ipa",
-      "size": 11724973,
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-48.ipa",
+      "size": 11785187,
       "minOSVersion": "26.0",
-      "buildVersion": "47"
+      "buildVersion": "48"
     }
   ],
   "news": []
