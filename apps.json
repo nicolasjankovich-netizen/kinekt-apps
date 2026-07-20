@@ -131,7 +131,7 @@
       "bundleIdentifier": "com.nicolas.Kurs",
       "developerName": "Nicolas",
       "subtitle": "Navigation",
-      "localizedDescription": "Fix: Debug-Vollbild/Tacho zeigten bei aktiver Müdigkeits-Warnung die Selfie-Kamera (MultiCam) — Vorschau jetzt fest an die Rückkamera gebunden. Neu: Status zeigt das aktive KI-Modell.",
+      "localizedDescription": "TESTFAHRT-BUILD: Kamera-Pfad stabilisiert (Debug-Bild + Tacho-Video wieder da). Müdigkeits-Beta vorerst raus (hatte die Vorschau gestört) — kommt getestet zurück.",
       "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kurs.png",
       "tintColor": "6FB0AB",
       "category": "utilities",
@@ -139,6 +139,15 @@
         "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kurs.png"
       ],
       "versions": [
+        {
+          "version": "1.31",
+          "buildVersion": "46",
+          "date": "2026-07-20",
+          "localizedDescription": "TESTFAHRT-BUILD: Kamera-Pfad stabilisiert (Debug-Bild + Tacho-Video wieder da). Müdigkeits-Beta vorerst raus (hatte die Vorschau gestört) — kommt getestet zurück.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-46.ipa",
+          "size": 11724462,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.30.2",
           "buildVersion": "45",
@@ -385,13 +394,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.30.2",
+      "version": "1.31",
       "versionDate": "2026-07-20",
       "versionDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-45.ipa",
-      "size": 11725268,
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-46.ipa",
+      "size": 11724462,
       "minOSVersion": "26.0",
-      "buildVersion": "45"
+      "buildVersion": "46"
     }
   ],
   "news": []
