@@ -131,7 +131,7 @@
       "bundleIdentifier": "com.nicolas.Kurs",
       "developerName": "Nicolas",
       "subtitle": "Navigation",
-      "localizedDescription": "Erkennungs-Modus-Schalter: iPhone-Modus (alles an, Tesla-Style, 0 Latenz) oder GoPro/iPad-Modus (Schilder normal, Latenz-Features automatisch aus).",
+      "localizedDescription": "Kollisionswarnung (schnelle Annäherung, TTC < 1,8 s), Fußgänger-Warnung im Fahrkorridor, iPhone speichert nichts mehr dauerhaft (nach Upload gelöscht — iPad/Server sind das Archiv).",
       "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kurs.png",
       "tintColor": "6FB0AB",
       "category": "utilities",
@@ -139,6 +139,15 @@
         "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kurs.png"
       ],
       "versions": [
+        {
+          "version": "1.27",
+          "buildVersion": "38",
+          "date": "2026-07-20",
+          "localizedDescription": "Kollisionswarnung (schnelle Annäherung, TTC < 1,8 s), Fußgänger-Warnung im Fahrkorridor, iPhone speichert nichts mehr dauerhaft (nach Upload gelöscht — iPad/Server sind das Archiv).",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-38.ipa",
+          "size": 11732263,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.26",
           "buildVersion": "37",
@@ -313,13 +322,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.26",
+      "version": "1.27",
       "versionDate": "2026-07-20",
       "versionDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-37.ipa",
-      "size": 11730340,
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-38.ipa",
+      "size": 11732263,
       "minOSVersion": "26.0",
-      "buildVersion": "37"
+      "buildVersion": "38"
     }
   ],
   "news": []
