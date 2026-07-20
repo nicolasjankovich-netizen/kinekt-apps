@@ -131,7 +131,7 @@
       "bundleIdentifier": "com.nicolas.Kurs",
       "developerName": "Nicolas",
       "subtitle": "Navigation",
-      "localizedDescription": "CRASH-FIX iPad (MultiCam-Session vertrug kein Preset — Kamera-Start crashte). GoPro-Dashcam-Auswahl nur noch im GoPro/iPad-Modus sichtbar.",
+      "localizedDescription": "Kein Modus-Schalter mehr — vollautomatisch: iPhone-Kamera = alles an (0 Latenz), iPad/GoPro = nur Schilder. Nichts mehr einzustellen.",
       "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kurs.png",
       "tintColor": "6FB0AB",
       "category": "utilities",
@@ -139,6 +139,15 @@
         "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kurs.png"
       ],
       "versions": [
+        {
+          "version": "1.29",
+          "buildVersion": "41",
+          "date": "2026-07-20",
+          "localizedDescription": "Kein Modus-Schalter mehr — vollautomatisch: iPhone-Kamera = alles an (0 Latenz), iPad/GoPro = nur Schilder. Nichts mehr einzustellen.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-41.ipa",
+          "size": 11750673,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.28.1",
           "buildVersion": "40",
@@ -340,13 +349,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.28.1",
+      "version": "1.29",
       "versionDate": "2026-07-20",
       "versionDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-40.ipa",
-      "size": 11751206,
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-41.ipa",
+      "size": 11750673,
       "minOSVersion": "26.0",
-      "buildVersion": "40"
+      "buildVersion": "41"
     }
   ],
   "news": []
