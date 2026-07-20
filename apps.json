@@ -131,7 +131,7 @@
       "bundleIdentifier": "com.nicolas.Kurs",
       "developerName": "Nicolas",
       "subtitle": "Navigation",
-      "localizedDescription": "Modell-OTA (App holt neue KI-Modelle selbst vom Server), Schild-Tracking (stabiler), Zusatzschilder (bei Nässe/Zeitfenster/LKW-Limits gelten nicht für dich), Ein-Tipp-Korrektur (Limit lange drücken = falsch gemeldet), Alternativrouten-Knopf, Siri („Kurs nach Hause\"), Kennzeichen-Blur beim Upload, Hitze-adaptive Analyse.",
+      "localizedDescription": "Einstellungen aufgeräumt: 4 Kategorien (Fahren/Kamera/Fahrzeug/System) statt Endlos-Liste. Bugfix: Ampel-Ping + Verkehr-Debug waren nur bei Kabel-Dashcam sichtbar.",
       "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kurs.png",
       "tintColor": "6FB0AB",
       "category": "utilities",
@@ -139,6 +139,15 @@
         "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kurs.png"
       ],
       "versions": [
+        {
+          "version": "1.25",
+          "buildVersion": "36",
+          "date": "2026-07-20",
+          "localizedDescription": "Einstellungen aufgeräumt: 4 Kategorien (Fahren/Kamera/Fahrzeug/System) statt Endlos-Liste. Bugfix: Ampel-Ping + Verkehr-Debug waren nur bei Kabel-Dashcam sichtbar.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-36.ipa",
+          "size": 11731286,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.24",
           "buildVersion": "35",
@@ -295,13 +304,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.24",
+      "version": "1.25",
       "versionDate": "2026-07-20",
       "versionDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-35.ipa",
-      "size": 11717090,
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-36.ipa",
+      "size": 11731286,
       "minOSVersion": "26.0",
-      "buildVersion": "35"
+      "buildVersion": "36"
     }
   ],
   "news": []
