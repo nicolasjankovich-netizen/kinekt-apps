@@ -131,7 +131,7 @@
       "bundleIdentifier": "com.nicolas.Kurs",
       "developerName": "Nicolas",
       "subtitle": "Navigation",
-      "localizedDescription": "Fix: Status zeigt jetzt korrekt das eingebaute KI-Modell (Runde 4) statt fälschlich Runde 3.",
+      "localizedDescription": "Großer „Schild verpasst\"-Knopf im Tacho: ein Tipp sichert die Stelle + Clip fürs Nachtraining.",
       "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kurs.png",
       "tintColor": "6FB0AB",
       "category": "utilities",
@@ -139,6 +139,15 @@
         "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kurs.png"
       ],
       "versions": [
+        {
+          "version": "1.34.2",
+          "buildVersion": "51",
+          "date": "2026-07-20",
+          "localizedDescription": "Großer „Schild verpasst\"-Knopf im Tacho: ein Tipp sichert die Stelle + Clip fürs Nachtraining.",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-51.ipa",
+          "size": 24468292,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.34.1",
           "buildVersion": "50",
@@ -430,13 +439,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.34.1",
+      "version": "1.34.2",
       "versionDate": "2026-07-20",
       "versionDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-50.ipa",
-      "size": 24459507,
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-51.ipa",
+      "size": 24468292,
       "minOSVersion": "26.0",
-      "buildVersion": "50"
+      "buildVersion": "51"
     }
   ],
   "news": []
