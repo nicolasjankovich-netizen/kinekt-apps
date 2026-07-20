@@ -131,7 +131,7 @@
       "bundleIdentifier": "com.nicolas.Kurs",
       "developerName": "Nicolas",
       "subtitle": "Navigation",
-      "localizedDescription": "GoPro komplett entfernt (iPhone ist das einzige Kamera-Auge). iPad zeigt oben live an, ob das iPhone verbunden ist (grüner/roter Punkt).",
+      "localizedDescription": "Fix: iPhone-Anzeige auf dem iPad wird erst grün, wenn wirklich GPS-Daten ankommen (nicht nur Verbindung offen).",
       "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kurs.png",
       "tintColor": "6FB0AB",
       "category": "utilities",
@@ -139,6 +139,15 @@
         "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kurs.png"
       ],
       "versions": [
+        {
+          "version": "1.30.1",
+          "buildVersion": "44",
+          "date": "2026-07-20",
+          "localizedDescription": "Fix: iPhone-Anzeige auf dem iPad wird erst grün, wenn wirklich GPS-Daten ankommen (nicht nur Verbindung offen).",
+          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-44.ipa",
+          "size": 11710149,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.30",
           "buildVersion": "43",
@@ -367,13 +376,13 @@
           "minOSVersion": "26.0"
         }
       ],
-      "version": "1.30",
+      "version": "1.30.1",
       "versionDate": "2026-07-20",
       "versionDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-43.ipa",
-      "size": 11707633,
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-44.ipa",
+      "size": 11710149,
       "minOSVersion": "26.0",
-      "buildVersion": "43"
+      "buildVersion": "44"
     }
   ],
   "news": []
