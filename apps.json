@@ -1,452 +1,461 @@
 {
-  "name": "Kinekt",
-  "identifier": "com.nicolas.kinekt.source",
-  "subtitle": "Nicolas' App-Familie — eine Kinekt-Identität",
-  "website": "https://github.com/nicolasjankovich-netizen/kinekt-apps",
-  "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kino.png",
-  "tintColor": "6FB0AB",
-  "apps": [
+ "name": "Kinekt",
+ "identifier": "com.nicolas.kinekt.source",
+ "subtitle": "Nicolas' App-Familie — eine Kinekt-Identität",
+ "website": "https://github.com/nicolasjankovich-netizen/kinekt-apps",
+ "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kino.png",
+ "tintColor": "6FB0AB",
+ "apps": [
+  {
+   "name": "Kino",
+   "bundleIdentifier": "com.nicolas.Kino",
+   "developerName": "Nicolas",
+   "subtitle": "Filme & Serien",
+   "localizedDescription": "Deine private Film- & Serien-Mediathek (Jellyfin) — mit Login, Profilen, Downloads & Apple-TV-Ausgabe.",
+   "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kino.png",
+   "tintColor": "6FB0AB",
+   "category": "entertainment",
+   "screenshotURLs": [
+    "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kino.png"
+   ],
+   "versions": [
     {
-      "name": "Kino",
-      "bundleIdentifier": "com.nicolas.Kino",
-      "developerName": "Nicolas",
-      "subtitle": "Filme & Serien",
-      "localizedDescription": "Deine private Film- & Serien-Mediathek (Jellyfin) — mit Login, Profilen, Downloads & Apple-TV-Ausgabe.",
-      "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kino.png",
-      "tintColor": "6FB0AB",
-      "category": "entertainment",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kino.png"
-      ],
-      "versions": [
-        {
-          "version": "5.0",
-          "buildVersion": "32",
-          "date": "2026-07-17",
-          "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kino.ipa",
-          "size": 1889887,
-          "minOSVersion": "26.0"
-        }
-      ],
-      "version": "5.0",
-      "versionDate": "2026-07-17",
-      "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kino.ipa",
-      "size": 1889887,
-      "minOSVersion": "26.0",
-      "buildVersion": "32"
-    },
-    {
-      "name": "Konzert",
-      "bundleIdentifier": "com.nicolas.Konzert",
-      "developerName": "Nicolas",
-      "subtitle": "Deine Musik",
-      "localizedDescription": "Musik-Streaming (Navidrome) im Apple-Music-Stil — Login, Playlists, Downloads, AirPlay & Cast. Eigener Musik-Account nötig.",
-      "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/konzert.png",
-      "tintColor": "6FB0AB",
-      "category": "utilities",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/konzert.png"
-      ],
-      "versions": [
-        {
-          "version": "1.0",
-          "buildVersion": "18",
-          "date": "2026-07-17",
-          "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Konzert.ipa",
-          "size": 1987311,
-          "minOSVersion": "26.0"
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2026-07-17",
-      "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Konzert.ipa",
-      "size": 1987311,
-      "minOSVersion": "26.0",
-      "buildVersion": "18"
-    },
-    {
-      "name": "Kern",
-      "bundleIdentifier": "com.nicolas.Kern",
-      "developerName": "Nicolas",
-      "subtitle": "Persönlicher Assistent",
-      "localizedDescription": "Kalender, Aufgaben, Notizen & KI-Assistent (Agent C). Eigener Server-Token nötig (Mehr → Server-Token).",
-      "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kern.png",
-      "tintColor": "6FB0AB",
-      "category": "utilities",
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-07-17",
-          "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kern.ipa",
-          "size": 1566635,
-          "minOSVersion": "26.0"
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2026-07-17",
-      "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kern.ipa",
-      "size": 1566635,
-      "minOSVersion": "26.0",
-      "buildVersion": "1"
-    },
-    {
-      "name": "Kommando",
-      "bundleIdentifier": "com.nicolas.NAS",
-      "developerName": "Nicolas",
-      "subtitle": "Server-Steuerung",
-      "localizedDescription": "Steuere deinen Heim-Server (TrueNAS, Jellyfin, Dienste, Minecraft). Eigener Server-Login nötig.",
-      "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kommando.png",
-      "tintColor": "6FB0AB",
-      "category": "utilities",
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-07-17",
-          "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/NAS.ipa",
-          "size": 2262399,
-          "minOSVersion": "26.0"
-        }
-      ],
-      "version": "1.0",
-      "versionDate": "2026-07-17",
-      "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/NAS.ipa",
-      "size": 2262399,
-      "minOSVersion": "26.0",
-      "buildVersion": "1"
-    },
-    {
-      "name": "Kurs",
-      "bundleIdentifier": "com.nicolas.Kurs",
-      "developerName": "Nicolas",
-      "subtitle": "Navigation",
-      "localizedDescription": "Großer „Schild verpasst\"-Knopf im Tacho: ein Tipp sichert die Stelle + Clip fürs Nachtraining.",
-      "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kurs.png",
-      "tintColor": "6FB0AB",
-      "category": "utilities",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kurs.png"
-      ],
-      "versions": [
-        {
-          "version": "1.34.2",
-          "buildVersion": "51",
-          "date": "2026-07-20",
-          "localizedDescription": "Großer „Schild verpasst\"-Knopf im Tacho: ein Tipp sichert die Stelle + Clip fürs Nachtraining.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-51.ipa",
-          "size": 24468292,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.34.1",
-          "buildVersion": "50",
-          "date": "2026-07-20",
-          "localizedDescription": "Fix: Status zeigt jetzt korrekt das eingebaute KI-Modell (Runde 4) statt fälschlich Runde 3.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-50.ipa",
-          "size": 24459507,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.34",
-          "buildVersion": "49",
-          "date": "2026-07-20",
-          "localizedDescription": "Neues KI-Modell Runde 4 (großes YOLO11s, 25 Klassen): erkennt jetzt auch 40/90/110/130, Spielstraße, Ortstafel, Zone 30, Vorfahrt-gewähren nativ. Gegen echte Fahrt-Clips validiert — kein Rückschritt, mehr Klassen.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-49.ipa",
-          "size": 24459454,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.33",
-          "buildVersion": "48",
-          "date": "2026-07-20",
-          "localizedDescription": "Ereignis-Archiv (Clips ansehen/teilen/löschen in der App), Schöne-Strecke-Modus (kurvige Route fürs Cabrio), Parkwächter (Person am Auto → Clip+Push), Bahnübergang/Zebrastreifen-Verhalten, CAN-Mitschnitt vorbereitet, Fahrtenbuch-Dashboard.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-48.ipa",
-          "size": 11785187,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.32",
-          "buildVersion": "47",
-          "date": "2026-07-20",
-          "localizedDescription": "Müdigkeits-Warnung zurück (Kamera-Bindung robust gefixt — Vorschau bleibt Rückkamera). Alle Features aktiv. Runde-4-Modell folgt heute als v1.33.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-47.ipa",
-          "size": 11724973,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.31",
-          "buildVersion": "46",
-          "date": "2026-07-20",
-          "localizedDescription": "TESTFAHRT-BUILD: Kamera-Pfad stabilisiert (Debug-Bild + Tacho-Video wieder da). Müdigkeits-Beta vorerst raus (hatte die Vorschau gestört) — kommt getestet zurück.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-46.ipa",
-          "size": 11724462,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.30.2",
-          "buildVersion": "45",
-          "date": "2026-07-20",
-          "localizedDescription": "Fix: Debug-Vollbild/Tacho zeigten bei aktiver Müdigkeits-Warnung die Selfie-Kamera (MultiCam) — Vorschau jetzt fest an die Rückkamera gebunden. Neu: Status zeigt das aktive KI-Modell.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-45.ipa",
-          "size": 11725268,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.30.1",
-          "buildVersion": "44",
-          "date": "2026-07-20",
-          "localizedDescription": "Fix: iPhone-Anzeige auf dem iPad wird erst grün, wenn wirklich GPS-Daten ankommen (nicht nur Verbindung offen).",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-44.ipa",
-          "size": 11710149,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.30",
-          "buildVersion": "43",
-          "date": "2026-07-20",
-          "localizedDescription": "GoPro komplett entfernt (iPhone ist das einzige Kamera-Auge). iPad zeigt oben live an, ob das iPhone verbunden ist (grüner/roter Punkt).",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-43.ipa",
-          "size": 11707633,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.29.1",
-          "buildVersion": "42",
-          "date": "2026-07-20",
-          "localizedDescription": "Dreh-Fix: Kamera-Vorschau, Debug-Vollbild und Dashcam-Aufnahme drehen jetzt korrekt mit dem iPhone mit (quer bleibt quer).",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-42.ipa",
-          "size": 11752805,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.29",
-          "buildVersion": "41",
-          "date": "2026-07-20",
-          "localizedDescription": "Kein Modus-Schalter mehr — vollautomatisch: iPhone-Kamera = alles an (0 Latenz), iPad/GoPro = nur Schilder. Nichts mehr einzustellen.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-41.ipa",
-          "size": 11750673,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.28.1",
-          "buildVersion": "40",
-          "date": "2026-07-20",
-          "localizedDescription": "CRASH-FIX iPad (MultiCam-Session vertrug kein Preset — Kamera-Start crashte). GoPro-Dashcam-Auswahl nur noch im GoPro/iPad-Modus sichtbar.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-40.ipa",
-          "size": 11751206,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.28",
-          "buildVersion": "39",
-          "date": "2026-07-20",
-          "localizedDescription": "Müdigkeits-Warnung (Frontkamera, Beta), Spur-Warnung (Beta), OBD2-Ausbau vorbereitet: Fehlercode-Leser, Kaltstart-Hinweis, Verbrauch über Saugrohrdruck (aktiviert sich, sobald der Dongle verbunden ist).",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-39.ipa",
-          "size": 11748336,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.27",
-          "buildVersion": "38",
-          "date": "2026-07-20",
-          "localizedDescription": "Kollisionswarnung (schnelle Annäherung, TTC < 1,8 s), Fußgänger-Warnung im Fahrkorridor, iPhone speichert nichts mehr dauerhaft (nach Upload gelöscht — iPad/Server sind das Archiv).",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-38.ipa",
-          "size": 11732263,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.26",
-          "buildVersion": "37",
-          "date": "2026-07-20",
-          "localizedDescription": "Erkennungs-Modus-Schalter: iPhone-Modus (alles an, Tesla-Style, 0 Latenz) oder GoPro/iPad-Modus (Schilder normal, Latenz-Features automatisch aus).",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-37.ipa",
-          "size": 11730340,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.25",
-          "buildVersion": "36",
-          "date": "2026-07-20",
-          "localizedDescription": "Einstellungen aufgeräumt: 4 Kategorien (Fahren/Kamera/Fahrzeug/System) statt Endlos-Liste. Bugfix: Ampel-Ping + Verkehr-Debug waren nur bei Kabel-Dashcam sichtbar.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-36.ipa",
-          "size": 11731286,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.24",
-          "buildVersion": "35",
-          "date": "2026-07-20",
-          "localizedDescription": "Modell-OTA (App holt neue KI-Modelle selbst vom Server), Schild-Tracking (stabiler), Zusatzschilder (bei Nässe/Zeitfenster/LKW-Limits gelten nicht für dich), Ein-Tipp-Korrektur (Limit lange drücken = falsch gemeldet), Alternativrouten-Knopf, Siri („Kurs nach Hause\"), Kennzeichen-Blur beim Upload, Hitze-adaptive Analyse.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-35.ipa",
-          "size": 11717090,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.23",
-          "buildVersion": "34",
-          "date": "2026-07-20",
-          "localizedDescription": "Fahr-Assistent (Abstandswarner, Anfahr-Ping, Ampel 2.0), Debug-Vollbild mit Live-Kästen, iPhone-Dashcam im Tacho (mit Hitze-Schutz), Auto-Upload der Clips zum Server (Training lernt von selbst), OBD2-Bluetooth-Support.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-34.ipa",
-          "size": 11675551,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.22",
-          "buildVersion": "33",
-          "date": "2026-07-20",
-          "localizedDescription": "Neues KI-Modell (mit deinen echten Fahrten trainiert — 80er-Fix!), Nacht-Paket (Boost, 5 Analysen/s, 2-Treffer), Verkehrs-Debug (Autos/Personen/Ampeln im Kalibrier-Browser), Tacho mit Kamera-Limit-Kennzeichnung.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-33.ipa",
-          "size": 11594695,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.21",
-          "buildVersion": "32",
-          "date": "2026-07-20",
-          "localizedDescription": "Schilderkennung kalibriert nach Testfahrten: Fenster-Bestätigung (keine falschen Limits mehr durch einzelne Fehltreffer), OCR-Gegencheck der KI-Box (40er wird nicht mehr zu 60), Nacht-Modus mit strengeren Schwellen, Mindest-Boxgröße, Log-Spam weg.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-32.ipa",
-          "size": 6679524,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.20",
-          "buildVersion": "31",
-          "date": "2026-07-19",
-          "localizedDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-31.ipa",
-          "size": 6672822,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.19.3",
-          "buildVersion": "30",
-          "date": "2026-07-19T17:00:00Z",
-          "size": 6641566,
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-30.ipa",
-          "localizedDescription": "1.19.3: ‚Schild verpasst!'-Knopf im Kalibrier-Browser (Beifahrer) — ein Tipper loggt es, sichert Clip UND Standbild als Nachtrainings-Material."
-        },
-        {
-          "version": "1.19.2",
-          "buildVersion": "29",
-          "date": "2026-07-19T16:40:00Z",
-          "size": 6640880,
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-29.ipa",
-          "localizedDescription": "1.19.2: Clip-Knopf von der Kamera-Kachel entfernt (doppelt — der Record-Knopf unten rechts sichert Clips). Kachel-Tap = Marke bleibt."
-        },
-        {
-          "version": "1.19.1",
-          "buildVersion": "28",
-          "date": "2026-07-19T16:20:00Z",
-          "size": 6644366,
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-28.ipa",
-          "localizedDescription": "1.19.1: Crash-Fix — App stürzte ab, wenn die Dashcam an war, aber keine Kamera angeschlossen (Aufnahme-Start ohne Video-Signal). Wartet jetzt geduldig und legt los, sobald die Kamera dran ist."
-        },
-        {
-          "version": "1.19",
-          "buildVersion": "27",
-          "date": "2026-07-19T15:50:00Z",
-          "size": 6644690,
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-27.ipa",
-          "localizedDescription": "1.19: KI-Modell Runde 2 (mAP50 0.93) — erkennt jetzt auch Stop, Vorfahrt gewähren, Einfahrt verboten, Überholverbot und ‚Ende aller Verbote' (hebt das Kamera-Limit automatisch auf). Kalibrier-Browser mit allen 13 Klassen."
-        },
-        {
-          "version": "1.18",
-          "buildVersion": "26",
-          "date": "2026-07-19T13:10:00Z",
-          "size": 6640291,
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-26.ipa",
-          "localizedDescription": "1.18: Kalibrier-Browser jetzt mit echtem Live-Videostream (MJPEG ~8fps) + vollem Debug/Tweak-Menü: Gerade-erkannt-Schilder mit Konfidenz, Erkennungs-ms, KI-Klassen-Filter, Schnappschuss-Knopf (Nachtrainings-Material)."
-        },
-        {
-          "version": "1.17",
-          "buildVersion": "25",
-          "date": "2026-07-19T12:40:00Z",
-          "size": 6631806,
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-25.ipa",
-          "localizedDescription": "1.17: KI-Schilderkennung! Eigenes YOLO-Modell (auf 900 echten deutschen Straßenszenen trainiert) erkennt 20-120er-Schilder direkt auf der Neural Engine — robuster bei Nacht/Gegenlicht. Klassische Pipeline bleibt als Fallback. Neuer KI-Konfidenz-Slider im Kalibrier-Browser."
-        },
-        {
-          "version": "1.16",
-          "buildVersion": "24",
-          "date": "2026-07-19T10:30:00Z",
-          "size": 1790090,
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-24.ipa",
-          "localizedDescription": "1.16: Dashcam-Kachel mittig zwischen Abbiege-Karte und Tacho · Record-Knopf (Tap = Clip sichern, Long-Press = Feed an/aus) · Live-Kalibrierung: Beifahrer-Mac sieht Kamerabild+Erkennung+Log im Browser, Parameter sofort verstellbar."
-        },
-        {
-          "version": "1.15",
-          "buildVersion": "23",
-          "date": "2026-07-19",
-          "localizedDescription": "Dashcam-Konzept final: KEINE Daueraufnahme mehr — die Kamera puffert nur die letzten ~2 Min (Pre-Capture). Der Clip-Knopf sichert rückwirkend + 10 s Nachlauf; Bremsung/Blitzer sichern automatisch. Daueraufnahme (30-Min-Ring) wahlweise in den Einstellungen zuschaltbar.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-23.ipa",
-          "size": 1757764,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.14.3",
-          "buildVersion": "22",
-          "date": "2026-07-19",
-          "localizedDescription": "Spiegel-Schalter für die Kamera (fixt das gespiegelte Bild — wirkt auch auf Aufnahme + Erkennung) · Aufnahme läuft jetzt immer automatisch mit (roter Punkt) · Einstellungen-Schalter steuert die Feed-Anzeige",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-22.ipa",
-          "size": 1755332,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.14.2",
-          "buildVersion": "21",
-          "date": "2026-07-19",
-          "localizedDescription": "Dashcam-Feinschliff: Kamera-Drehung einstellbar (0/90/180/270° — fixt das falsch gedrehte Video) · Aufnahme-Schalter auch in den Einstellungen · Feed-Kachel jetzt oben mittig, responsiv",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-21.ipa",
-          "size": 1753560,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.14.1",
-          "buildVersion": "20",
-          "date": "2026-07-19",
-          "localizedDescription": "Dashcam-Bedienung neu: eigener Video-Knopf in der Knopf-Spalte blendet den Kamera-Feed ein/aus (Aufnahme + Erkennung laufen weiter, roter Punkt = REC aktiv) · Kachel größer mit richtigem REC-Knopf",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-20.ipa",
-          "size": 1743906,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.14",
-          "buildVersion": "19",
-          "date": "2026-07-19",
-          "localizedDescription": "Großes Update: Karte folgt zuverlässig · Player: Tap=Pause, Swipe=Song · Blitzer-Warner überarbeitet (mehr Blitzer, kein Flackern) · Tacho endlich smooth · Tempolimit im HUD · Funkloch-Modus · Schild-Kamera (iPhone) · GoPro-Dashcam per Kabel/WLAN mit Aufnahme, Ereignis-Clips (Bremsung/Blitzer), Ortstafel→50, Ampel-Ping (Beta) · Fahr-Log fürs Kalibrieren",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-19.ipa",
-          "size": 1736360,
-          "minOSVersion": "26.0"
-        },
-        {
-          "version": "1.8",
-          "buildVersion": "9",
-          "date": "2026-07-18",
-          "localizedDescription": "Tacho ruhiger: Hysterese gegen das Zappeln zwischen zwei km/h (49↔50), rollt weiterhin reaktiv hoch beim Gas / runter beim Bremsen. Gilt für iPad-Screen + HUD.",
-          "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-9.ipa",
-          "size": 1627639,
-          "minOSVersion": "26.0"
-        }
-      ],
-      "version": "1.34.2",
-      "versionDate": "2026-07-20",
-      "versionDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
-      "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-51.ipa",
-      "size": 24468292,
-      "minOSVersion": "26.0",
-      "buildVersion": "51"
+     "version": "5.0",
+     "buildVersion": "32",
+     "date": "2026-07-17",
+     "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kino.ipa",
+     "size": 1889887,
+     "minOSVersion": "26.0"
     }
-  ],
-  "news": []
+   ],
+   "version": "5.0",
+   "versionDate": "2026-07-17",
+   "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+   "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kino.ipa",
+   "size": 1889887,
+   "minOSVersion": "26.0",
+   "buildVersion": "32"
+  },
+  {
+   "name": "Konzert",
+   "bundleIdentifier": "com.nicolas.Konzert",
+   "developerName": "Nicolas",
+   "subtitle": "Deine Musik",
+   "localizedDescription": "Musik-Streaming (Navidrome) im Apple-Music-Stil — Login, Playlists, Downloads, AirPlay & Cast. Eigener Musik-Account nötig.",
+   "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/konzert.png",
+   "tintColor": "6FB0AB",
+   "category": "utilities",
+   "screenshotURLs": [
+    "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/konzert.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0",
+     "buildVersion": "18",
+     "date": "2026-07-17",
+     "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Konzert.ipa",
+     "size": 1987311,
+     "minOSVersion": "26.0"
+    }
+   ],
+   "version": "1.0",
+   "versionDate": "2026-07-17",
+   "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+   "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Konzert.ipa",
+   "size": 1987311,
+   "minOSVersion": "26.0",
+   "buildVersion": "18"
+  },
+  {
+   "name": "Kern",
+   "bundleIdentifier": "com.nicolas.Kern",
+   "developerName": "Nicolas",
+   "subtitle": "Persönlicher Assistent",
+   "localizedDescription": "Kalender, Aufgaben, Notizen & KI-Assistent (Agent C). Eigener Server-Token nötig (Mehr → Server-Token).",
+   "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kern.png",
+   "tintColor": "6FB0AB",
+   "category": "utilities",
+   "screenshotURLs": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "buildVersion": "2",
+     "date": "2026-07-21",
+     "localizedDescription": "Neu: Prüfer-Tab im Lernen-Bereich — der KI-Prüfer fragt dich für die Zwischenprüfung (Zweiradmechatroniker/Fahrradtechnik) pro Thema ab, Fachgespräch per Sprache.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kern.ipa",
+     "size": 1578804,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.0",
+     "buildVersion": "1",
+     "date": "2026-07-17",
+     "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kern.ipa",
+     "size": 1566635,
+     "minOSVersion": "26.0"
+    }
+   ],
+   "version": "1.1",
+   "versionDate": "2026-07-21",
+   "versionDescription": "Neu: Prüfer-Tab im Lernen-Bereich — der KI-Prüfer fragt dich für die Zwischenprüfung (Zweiradmechatroniker/Fahrradtechnik) pro Thema ab, Fachgespräch per Sprache.",
+   "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kern.ipa",
+   "size": 1566635,
+   "minOSVersion": "26.0",
+   "buildVersion": "1"
+  },
+  {
+   "name": "Kommando",
+   "bundleIdentifier": "com.nicolas.NAS",
+   "developerName": "Nicolas",
+   "subtitle": "Server-Steuerung",
+   "localizedDescription": "Steuere deinen Heim-Server (TrueNAS, Jellyfin, Dienste, Minecraft). Eigener Server-Login nötig.",
+   "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kommando.png",
+   "tintColor": "6FB0AB",
+   "category": "utilities",
+   "screenshotURLs": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "buildVersion": "1",
+     "date": "2026-07-17",
+     "localizedDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/NAS.ipa",
+     "size": 2262399,
+     "minOSVersion": "26.0"
+    }
+   ],
+   "version": "1.0",
+   "versionDate": "2026-07-17",
+   "versionDescription": "Erstveröffentlichung mit neuem Kinekt-Design, 2FA/Login & Bugfixes.",
+   "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/NAS.ipa",
+   "size": 2262399,
+   "minOSVersion": "26.0",
+   "buildVersion": "1"
+  },
+  {
+   "name": "Kurs",
+   "bundleIdentifier": "com.nicolas.Kurs",
+   "developerName": "Nicolas",
+   "subtitle": "Navigation",
+   "localizedDescription": "Großer „Schild verpasst\"-Knopf im Tacho: ein Tipp sichert die Stelle + Clip fürs Nachtraining.",
+   "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/icons/kurs.png",
+   "tintColor": "6FB0AB",
+   "category": "utilities",
+   "screenshotURLs": [
+    "https://raw.githubusercontent.com/nicolasjankovich-netizen/kinekt-apps/main/screenshots/kurs.png"
+   ],
+   "versions": [
+    {
+     "version": "1.34.2",
+     "buildVersion": "51",
+     "date": "2026-07-20",
+     "localizedDescription": "Großer „Schild verpasst\"-Knopf im Tacho: ein Tipp sichert die Stelle + Clip fürs Nachtraining.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-51.ipa",
+     "size": 24468292,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.34.1",
+     "buildVersion": "50",
+     "date": "2026-07-20",
+     "localizedDescription": "Fix: Status zeigt jetzt korrekt das eingebaute KI-Modell (Runde 4) statt fälschlich Runde 3.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-50.ipa",
+     "size": 24459507,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.34",
+     "buildVersion": "49",
+     "date": "2026-07-20",
+     "localizedDescription": "Neues KI-Modell Runde 4 (großes YOLO11s, 25 Klassen): erkennt jetzt auch 40/90/110/130, Spielstraße, Ortstafel, Zone 30, Vorfahrt-gewähren nativ. Gegen echte Fahrt-Clips validiert — kein Rückschritt, mehr Klassen.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-49.ipa",
+     "size": 24459454,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.33",
+     "buildVersion": "48",
+     "date": "2026-07-20",
+     "localizedDescription": "Ereignis-Archiv (Clips ansehen/teilen/löschen in der App), Schöne-Strecke-Modus (kurvige Route fürs Cabrio), Parkwächter (Person am Auto → Clip+Push), Bahnübergang/Zebrastreifen-Verhalten, CAN-Mitschnitt vorbereitet, Fahrtenbuch-Dashboard.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-48.ipa",
+     "size": 11785187,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.32",
+     "buildVersion": "47",
+     "date": "2026-07-20",
+     "localizedDescription": "Müdigkeits-Warnung zurück (Kamera-Bindung robust gefixt — Vorschau bleibt Rückkamera). Alle Features aktiv. Runde-4-Modell folgt heute als v1.33.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-47.ipa",
+     "size": 11724973,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.31",
+     "buildVersion": "46",
+     "date": "2026-07-20",
+     "localizedDescription": "TESTFAHRT-BUILD: Kamera-Pfad stabilisiert (Debug-Bild + Tacho-Video wieder da). Müdigkeits-Beta vorerst raus (hatte die Vorschau gestört) — kommt getestet zurück.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-46.ipa",
+     "size": 11724462,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.30.2",
+     "buildVersion": "45",
+     "date": "2026-07-20",
+     "localizedDescription": "Fix: Debug-Vollbild/Tacho zeigten bei aktiver Müdigkeits-Warnung die Selfie-Kamera (MultiCam) — Vorschau jetzt fest an die Rückkamera gebunden. Neu: Status zeigt das aktive KI-Modell.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-45.ipa",
+     "size": 11725268,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.30.1",
+     "buildVersion": "44",
+     "date": "2026-07-20",
+     "localizedDescription": "Fix: iPhone-Anzeige auf dem iPad wird erst grün, wenn wirklich GPS-Daten ankommen (nicht nur Verbindung offen).",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-44.ipa",
+     "size": 11710149,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.30",
+     "buildVersion": "43",
+     "date": "2026-07-20",
+     "localizedDescription": "GoPro komplett entfernt (iPhone ist das einzige Kamera-Auge). iPad zeigt oben live an, ob das iPhone verbunden ist (grüner/roter Punkt).",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-43.ipa",
+     "size": 11707633,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.29.1",
+     "buildVersion": "42",
+     "date": "2026-07-20",
+     "localizedDescription": "Dreh-Fix: Kamera-Vorschau, Debug-Vollbild und Dashcam-Aufnahme drehen jetzt korrekt mit dem iPhone mit (quer bleibt quer).",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-42.ipa",
+     "size": 11752805,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.29",
+     "buildVersion": "41",
+     "date": "2026-07-20",
+     "localizedDescription": "Kein Modus-Schalter mehr — vollautomatisch: iPhone-Kamera = alles an (0 Latenz), iPad/GoPro = nur Schilder. Nichts mehr einzustellen.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-41.ipa",
+     "size": 11750673,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.28.1",
+     "buildVersion": "40",
+     "date": "2026-07-20",
+     "localizedDescription": "CRASH-FIX iPad (MultiCam-Session vertrug kein Preset — Kamera-Start crashte). GoPro-Dashcam-Auswahl nur noch im GoPro/iPad-Modus sichtbar.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-40.ipa",
+     "size": 11751206,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.28",
+     "buildVersion": "39",
+     "date": "2026-07-20",
+     "localizedDescription": "Müdigkeits-Warnung (Frontkamera, Beta), Spur-Warnung (Beta), OBD2-Ausbau vorbereitet: Fehlercode-Leser, Kaltstart-Hinweis, Verbrauch über Saugrohrdruck (aktiviert sich, sobald der Dongle verbunden ist).",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-39.ipa",
+     "size": 11748336,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.27",
+     "buildVersion": "38",
+     "date": "2026-07-20",
+     "localizedDescription": "Kollisionswarnung (schnelle Annäherung, TTC < 1,8 s), Fußgänger-Warnung im Fahrkorridor, iPhone speichert nichts mehr dauerhaft (nach Upload gelöscht — iPad/Server sind das Archiv).",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-38.ipa",
+     "size": 11732263,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.26",
+     "buildVersion": "37",
+     "date": "2026-07-20",
+     "localizedDescription": "Erkennungs-Modus-Schalter: iPhone-Modus (alles an, Tesla-Style, 0 Latenz) oder GoPro/iPad-Modus (Schilder normal, Latenz-Features automatisch aus).",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-37.ipa",
+     "size": 11730340,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.25",
+     "buildVersion": "36",
+     "date": "2026-07-20",
+     "localizedDescription": "Einstellungen aufgeräumt: 4 Kategorien (Fahren/Kamera/Fahrzeug/System) statt Endlos-Liste. Bugfix: Ampel-Ping + Verkehr-Debug waren nur bei Kabel-Dashcam sichtbar.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-36.ipa",
+     "size": 11731286,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.24",
+     "buildVersion": "35",
+     "date": "2026-07-20",
+     "localizedDescription": "Modell-OTA (App holt neue KI-Modelle selbst vom Server), Schild-Tracking (stabiler), Zusatzschilder (bei Nässe/Zeitfenster/LKW-Limits gelten nicht für dich), Ein-Tipp-Korrektur (Limit lange drücken = falsch gemeldet), Alternativrouten-Knopf, Siri („Kurs nach Hause\"), Kennzeichen-Blur beim Upload, Hitze-adaptive Analyse.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-35.ipa",
+     "size": 11717090,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.23",
+     "buildVersion": "34",
+     "date": "2026-07-20",
+     "localizedDescription": "Fahr-Assistent (Abstandswarner, Anfahr-Ping, Ampel 2.0), Debug-Vollbild mit Live-Kästen, iPhone-Dashcam im Tacho (mit Hitze-Schutz), Auto-Upload der Clips zum Server (Training lernt von selbst), OBD2-Bluetooth-Support.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-34.ipa",
+     "size": 11675551,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.22",
+     "buildVersion": "33",
+     "date": "2026-07-20",
+     "localizedDescription": "Neues KI-Modell (mit deinen echten Fahrten trainiert — 80er-Fix!), Nacht-Paket (Boost, 5 Analysen/s, 2-Treffer), Verkehrs-Debug (Autos/Personen/Ampeln im Kalibrier-Browser), Tacho mit Kamera-Limit-Kennzeichnung.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-33.ipa",
+     "size": 11594695,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.21",
+     "buildVersion": "32",
+     "date": "2026-07-20",
+     "localizedDescription": "Schilderkennung kalibriert nach Testfahrten: Fenster-Bestätigung (keine falschen Limits mehr durch einzelne Fehltreffer), OCR-Gegencheck der KI-Box (40er wird nicht mehr zu 60), Nacht-Modus mit strengeren Schwellen, Mindest-Boxgröße, Log-Spam weg.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-32.ipa",
+     "size": 6679524,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.20",
+     "buildVersion": "31",
+     "date": "2026-07-19",
+     "localizedDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-31.ipa",
+     "size": 6672822,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.19.3",
+     "buildVersion": "30",
+     "date": "2026-07-19T17:00:00Z",
+     "size": 6641566,
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-30.ipa",
+     "localizedDescription": "1.19.3: ‚Schild verpasst!'-Knopf im Kalibrier-Browser (Beifahrer) — ein Tipper loggt es, sichert Clip UND Standbild als Nachtrainings-Material."
+    },
+    {
+     "version": "1.19.2",
+     "buildVersion": "29",
+     "date": "2026-07-19T16:40:00Z",
+     "size": 6640880,
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-29.ipa",
+     "localizedDescription": "1.19.2: Clip-Knopf von der Kamera-Kachel entfernt (doppelt — der Record-Knopf unten rechts sichert Clips). Kachel-Tap = Marke bleibt."
+    },
+    {
+     "version": "1.19.1",
+     "buildVersion": "28",
+     "date": "2026-07-19T16:20:00Z",
+     "size": 6644366,
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-28.ipa",
+     "localizedDescription": "1.19.1: Crash-Fix — App stürzte ab, wenn die Dashcam an war, aber keine Kamera angeschlossen (Aufnahme-Start ohne Video-Signal). Wartet jetzt geduldig und legt los, sobald die Kamera dran ist."
+    },
+    {
+     "version": "1.19",
+     "buildVersion": "27",
+     "date": "2026-07-19T15:50:00Z",
+     "size": 6644690,
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-27.ipa",
+     "localizedDescription": "1.19: KI-Modell Runde 2 (mAP50 0.93) — erkennt jetzt auch Stop, Vorfahrt gewähren, Einfahrt verboten, Überholverbot und ‚Ende aller Verbote' (hebt das Kamera-Limit automatisch auf). Kalibrier-Browser mit allen 13 Klassen."
+    },
+    {
+     "version": "1.18",
+     "buildVersion": "26",
+     "date": "2026-07-19T13:10:00Z",
+     "size": 6640291,
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-26.ipa",
+     "localizedDescription": "1.18: Kalibrier-Browser jetzt mit echtem Live-Videostream (MJPEG ~8fps) + vollem Debug/Tweak-Menü: Gerade-erkannt-Schilder mit Konfidenz, Erkennungs-ms, KI-Klassen-Filter, Schnappschuss-Knopf (Nachtrainings-Material)."
+    },
+    {
+     "version": "1.17",
+     "buildVersion": "25",
+     "date": "2026-07-19T12:40:00Z",
+     "size": 6631806,
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-25.ipa",
+     "localizedDescription": "1.17: KI-Schilderkennung! Eigenes YOLO-Modell (auf 900 echten deutschen Straßenszenen trainiert) erkennt 20-120er-Schilder direkt auf der Neural Engine — robuster bei Nacht/Gegenlicht. Klassische Pipeline bleibt als Fallback. Neuer KI-Konfidenz-Slider im Kalibrier-Browser."
+    },
+    {
+     "version": "1.16",
+     "buildVersion": "24",
+     "date": "2026-07-19T10:30:00Z",
+     "size": 1790090,
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-24.ipa",
+     "localizedDescription": "1.16: Dashcam-Kachel mittig zwischen Abbiege-Karte und Tacho · Record-Knopf (Tap = Clip sichern, Long-Press = Feed an/aus) · Live-Kalibrierung: Beifahrer-Mac sieht Kamerabild+Erkennung+Log im Browser, Parameter sofort verstellbar."
+    },
+    {
+     "version": "1.15",
+     "buildVersion": "23",
+     "date": "2026-07-19",
+     "localizedDescription": "Dashcam-Konzept final: KEINE Daueraufnahme mehr — die Kamera puffert nur die letzten ~2 Min (Pre-Capture). Der Clip-Knopf sichert rückwirkend + 10 s Nachlauf; Bremsung/Blitzer sichern automatisch. Daueraufnahme (30-Min-Ring) wahlweise in den Einstellungen zuschaltbar.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-23.ipa",
+     "size": 1757764,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.14.3",
+     "buildVersion": "22",
+     "date": "2026-07-19",
+     "localizedDescription": "Spiegel-Schalter für die Kamera (fixt das gespiegelte Bild — wirkt auch auf Aufnahme + Erkennung) · Aufnahme läuft jetzt immer automatisch mit (roter Punkt) · Einstellungen-Schalter steuert die Feed-Anzeige",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-22.ipa",
+     "size": 1755332,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.14.2",
+     "buildVersion": "21",
+     "date": "2026-07-19",
+     "localizedDescription": "Dashcam-Feinschliff: Kamera-Drehung einstellbar (0/90/180/270° — fixt das falsch gedrehte Video) · Aufnahme-Schalter auch in den Einstellungen · Feed-Kachel jetzt oben mittig, responsiv",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-21.ipa",
+     "size": 1753560,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.14.1",
+     "buildVersion": "20",
+     "date": "2026-07-19",
+     "localizedDescription": "Dashcam-Bedienung neu: eigener Video-Knopf in der Knopf-Spalte blendet den Kamera-Feed ein/aus (Aufnahme + Erkennung laufen weiter, roter Punkt = REC aktiv) · Kachel größer mit richtigem REC-Knopf",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-20.ipa",
+     "size": 1743906,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.14",
+     "buildVersion": "19",
+     "date": "2026-07-19",
+     "localizedDescription": "Großes Update: Karte folgt zuverlässig · Player: Tap=Pause, Swipe=Song · Blitzer-Warner überarbeitet (mehr Blitzer, kein Flackern) · Tacho endlich smooth · Tempolimit im HUD · Funkloch-Modus · Schild-Kamera (iPhone) · GoPro-Dashcam per Kabel/WLAN mit Aufnahme, Ereignis-Clips (Bremsung/Blitzer), Ortstafel→50, Ampel-Ping (Beta) · Fahr-Log fürs Kalibrieren",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-19.ipa",
+     "size": 1736360,
+     "minOSVersion": "26.0"
+    },
+    {
+     "version": "1.8",
+     "buildVersion": "9",
+     "date": "2026-07-18",
+     "localizedDescription": "Tacho ruhiger: Hysterese gegen das Zappeln zwischen zwei km/h (49↔50), rollt weiterhin reaktiv hoch beim Gas / runter beim Bremsen. Gilt für iPad-Screen + HUD.",
+     "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-9.ipa",
+     "size": 1627639,
+     "minOSVersion": "26.0"
+    }
+   ],
+   "version": "1.34.2",
+   "versionDate": "2026-07-20",
+   "versionDescription": "Limit-Datenbank: die App lernt beim Fahren alle Tempolimits (Karte + Kamera-Schilder) lokal und kennt sie beim nächsten Mal auch ohne Kamera und ohne Internet. Baustellen-Limits werden erkannt (Widerspruch zur Karte / Autobahn-Baustelle in der Nähe) und verfallen nach 3 Tagen; das Ende-Schild löscht sie sofort. Neue Zeile in den Einstellungen unter Status.",
+   "downloadURL": "https://github.com/nicolasjankovich-netizen/kinekt-apps/releases/download/v1.0/Kurs-51.ipa",
+   "size": 24468292,
+   "minOSVersion": "26.0",
+   "buildVersion": "51"
+  }
+ ],
+ "news": []
 }
